@@ -17,3 +17,6 @@ Either use http://localhost/phpmyadmin                         (Suggested for us
 Then click on the db you made, open it, go to table named users,
 Find yourself
 And set admin/vip to 7 or 6.
+And press CTRL+F in the script and search /gimmeadmin
+And remove my name and add yours.
+Have a nice day, Happy Flying.

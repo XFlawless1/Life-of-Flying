@@ -13,7 +13,7 @@ Enjoy.
 
 # How to set myself admin?
 Well use the RCON feature.
-Either use http://localhost/phpmyadmin                         (Suggested for users running on localhost)
+Either use http://localhost/phpmyadmin                         (Recommended for users running on localhost)
 Then click on the db you made, open it, go to table named users,
 Find yourself
 And set admin/vip to 7 or 6.

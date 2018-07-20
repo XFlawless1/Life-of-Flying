@@ -1,4 +1,4 @@
-#COMPILED
+#CFG FILE
+server.cfg
+#Compiled gamemode
 *.amx
-#CFG
-*.cfg

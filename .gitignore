@@ -1,2 +1,4 @@
 #COMPILED
 *.amx
+#CFG
+*.cfg
